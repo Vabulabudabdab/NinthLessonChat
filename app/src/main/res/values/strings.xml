@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NinthLessonChat</string>
+    <string name="message_one">Привет, какие планы на выходные?</string>
+    <string name="message_second">Спать.</string>
+</resources>

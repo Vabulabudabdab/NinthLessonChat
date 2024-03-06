@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Примеры размеров -->
+    <dimen name="padding_message">10dp</dimen> <!-- размеры в относительных единицах -->
+    <integer name="padding_size">10</integer> <!-- размеры в абсолютных единицах -->
+
+</resources>
